@@ -14,9 +14,9 @@ The primary projects include **MVT** and **AndroidQF**.
 - Automated scans for traces of spyware, malware, or other malicious activities based on a set of [community-maintained Indicators of Compromise (IOCs)](https://github.com/mvt-project/mvt-indicators).
 - Outputs data in JSON for use in manual threat hunting and further analysis.  
 
-[Explore the MVT docs]()
-[Explore MVT](https://github.com/mvt-project/mvt)
-[Read the MVT Quick Start](_)
+Getting started by reading the [MVT documentation](https://docs.mvt.re/en/latest/introduction/)!
+
+[Explore the MVT code](https://github.com/mvt-project/mvt)
 
 ---
 

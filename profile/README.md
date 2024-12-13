@@ -2,11 +2,7 @@
 
 Welcome to the **MVT Project** repository! This open-source community is focused on developing tools to help to identify potential compromise of Android and iOS devices.
 
-Our primary projects include **MVT** and **AndroidQF**.
-
----
-
-## Key Projects
+The primary projects include **MVT** and **AndroidQF**.
 
 ### Mobile Verification Toolkit (MVT)
 
